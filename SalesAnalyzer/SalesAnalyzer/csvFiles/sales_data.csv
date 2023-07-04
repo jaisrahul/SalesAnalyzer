@@ -1,0 +1,14 @@
+TransactionDate,CustomerName,Product,Quantity,TotalAmount
+01-05-2023,John Doe,Product A,5,100
+02-05-2023,Jane Smith,Product B,3,150
+02-05-2023,John Doe,Product A,2,50
+03-05-2023,John Doe,Product C,1,75
+03-05-2023,Amy Johnson,Product A,4,200
+03-05-2023,Jane Smith,Product B,2,100
+04-05-2023,John Doe,Product B,3,150
+04-05-2023,Amy Johnson,Product A,1,25
+05-05-2023,Jane Smith,Product C,2,150
+05-05-2023,John Doe,Product A,3,75
+08-05-2023,Jane Smith,Product C,1,150
+08-05-2023,John Doe,Product A,3,75
+09-05-2023,Jane Smith,Product B,3,150
